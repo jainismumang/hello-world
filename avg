@@ -1,0 +1,10 @@
+#include<conio.h>
+#include<stdio.h>
+void main()
+{
+int x,y,avg;
+printf("Enter a number\n");
+scanf("%d%d",&x,&y);
+avg= x+y/2;
+printf("The avg of two numbers");
+}
